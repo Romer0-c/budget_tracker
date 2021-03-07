@@ -3,6 +3,7 @@ const FILES_TO_CACHE = [
   "/manifest.webmanifest",
   "/public/images/icons/icon-192x192.png",
   "/public/images/icons/icon-512x512.png",
+  "/public/images/icons/piggy-bank.svg"
 ];
 
 const CACHE_NAME = "static-cache-v2";
